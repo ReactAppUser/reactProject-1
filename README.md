@@ -1,3 +1,7 @@
+To authorize in the application, enter email: fio@ua.fm password: 123456. 
+An authorized user has access to the QuizCreator page and can generate tests for QuizList 
+/*To run, install Node.js, configure npm and yarn on a PC*/.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -56,6 +60,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
+
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
